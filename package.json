@@ -1,0 +1,21 @@
+{
+  "name": "quizgame",
+  "version": "1.0.0",
+  "description": "This is a small quizgame with Buzz Buzzer support",
+  "main": "js/main/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ChaosRambo/quizgame",
+  "keywords": [
+    "Electron",
+    "Quizgame",
+    "Buzz",
+    "Buzzer"
+  ],
+  "author": "GitHub",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
